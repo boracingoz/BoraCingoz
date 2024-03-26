@@ -2,7 +2,7 @@
 ![header gidf](https://github.com/boracingoz/BoraCingoz/assets/154797686/bb9a0ee5-ca7f-4cfb-ac77-d5675a2de453)
 
 <h1 align="center">Hi 👋, I'm Bora Cingöz</h1>
-<h3 align="center">A jr. game developer</h3>
+<h3 align="center">A JR. GAME DEVELOPER</h3>
 
 <img src="https://github.com/boracingoz/BoraCingoz/assets/154797686/7d8e0316-d929-4761-a339-4fb9ec1b32fb" alt="GIF" style="border-radius: 100%; width: 70%;" />
 
