@@ -1,5 +1,4 @@
 
-![header gidf](https://github.com/boracingoz/BoraCingoz/assets/154797686/bb9a0ee5-ca7f-4cfb-ac77-d5675a2de453)
 
 
 <h1 align="center">Hi 👋, I'm Bora Cingöz</h1>
